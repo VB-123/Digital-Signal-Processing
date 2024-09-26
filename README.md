@@ -1,2 +1,2 @@
 # Digital-Signal-Processing
-Basic DSP Operations
+Basic DSP Operations using C
